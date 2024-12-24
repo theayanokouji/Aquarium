@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aquarium</string>
+    <string name="strDescription">\n            These colorful, ornamental fish are a variety of the Amur carp. They were originally found \n            in Central Europe and Asia, but they’ve spread to many other parts of the world. Koi carp are \n            popular with breeders, and there are currently \n            over 100 varieties created through breeding.\n            \n            The average age of a koi carp can vary based \n            on the part of the world it’s bred in. Carps bred \n            outside of Japan have an average lifespan of around 15 years, while carps bred in Japan\n            can live 40 years or more. The oldest koi carp on record,\n            which was a fish named Hanako, reportedly lived for 226 years!</string>
+    <string name="koi_carp">Koi Carp</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+</resources>
